@@ -43,7 +43,7 @@ These maps were integrated into Metabase for **region-specific visualizations**.
 
 - **Metabase** – Interactive BI dashboard
 - **Custom GeoJSON Maps** – For region-based analysis
-- ** CSV** – Data source
+- **CSV** – Data source
 - **Data cleaning & prep** 
 
 ---
