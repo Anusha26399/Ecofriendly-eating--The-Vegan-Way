@@ -3,7 +3,11 @@
 A data-driven exploration into the **rise of veganism**, changing consumer behavior, and regional trends. This project uses **Metabase**, an open-source BI tool, for visualization and interactive dashboards.
 
 ---
+## 🎥 Dashboard Preview
 
+![Dashboard Preview](dashboard.gif)
+
+---
 ## 📊 Project Overview
 
 In this project, I used **Metabase** for:
